@@ -1,2 +1,2 @@
-# sampleGithubRepository
-Sample github repository
+# SampleSeleniumMavenJenkins
+Sample Selenium Maven Jenkins Project
