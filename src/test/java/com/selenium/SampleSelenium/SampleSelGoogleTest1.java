@@ -7,7 +7,7 @@ import java.net.MalformedURLException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 public class SampleSelGoogleTest1 {
-	static WebDriver driver;
+	static WebDriver  driver;
  	@BeforeTest
 	public void setup() throws MalformedURLException {
 		String projectLocation = System.getProperty("user.dir");
